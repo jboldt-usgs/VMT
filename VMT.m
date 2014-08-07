@@ -24,7 +24,7 @@ function varargout = VMT(varargin)
 %
 %__________________________________________________________________________
 % P.R. Jackson, U.S. Geological Survey, Illinois Water Science Center
-% (pjackson@usgs.gov)
+% (pjackson@usgs.gov) xxx
 %
 % Code contributed by D. Parsons, D. Mueller, J. Czuba, and F. Engel.
 %__________________________________________________________________________
